@@ -317,7 +317,7 @@
         position: relative;
         bottom: -5%;
         left: 50%;
-        transform: translate(1%,0%);
+        transform: translate(-10%,0);
         padding-bottom: 20px;
     }
 }
